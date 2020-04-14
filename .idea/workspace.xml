@@ -41,6 +41,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -53,12 +56,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="192" />
-    <option name="y" value="48" />
-    <option name="width" value="1571" />
-    <option name="height" value="929" />
-  </component>
+  <component name="ProjectId" id="1aWqOO29Ouy2EODwnzgJsYcMqzU" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
